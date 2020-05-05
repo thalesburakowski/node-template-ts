@@ -1,0 +1,6 @@
+node_modules
+coverage
+dist
+.vscode
+__tests__/database.sqlite
+.env
